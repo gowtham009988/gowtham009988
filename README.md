@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @gowtham009988
-- 👀 I’m interested in ... Cyber security 
-- 🌱 I’m currently learning ...cyber security 
-- 💞️ I’m looking to collaborate on ...bug bounty
+- 👀 I’m interested in ... DATA SCIENCE
+- 🌱 I’m currently learning ...Data Analyst 
+- 💞️ I’m looking to collaborate on ...Data analysis
+  
 - 📫 How to reach me ... ngowtham312@gmail.com
 
 <!---
